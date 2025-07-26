@@ -33,7 +33,7 @@ Creo sitios web modernos, aplicaciones funcionales y herramientas orientadas a l
 
 ### 📫 Contáctame
 - **Email:** al20ldac@hotmail.com"  
-- **LinkedIn:** [Tu perfil LinkedIn](https://linkedin.com) *(si tienes uno)*  
+- **LinkedIn:** [Tu perfil LinkedIn](www.linkedin.com/in/leonardo-david-alvarado-cornejo-2a019136b) *(si tienes uno)*  
 - **Portafolio:** *(puedes poner tu sitio si lo tienes)*
 
 ---
