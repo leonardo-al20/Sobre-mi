@@ -32,7 +32,7 @@ Creo sitios web modernos, aplicaciones funcionales y herramientas orientadas a l
 ---
 
 ### 📫 Contáctame
-- **Email:** leonardoalvarado.dev@gmail.com  
+- **Email:** al20ldac@hotmail.com"  
 - **LinkedIn:** [Tu perfil LinkedIn](https://linkedin.com) *(si tienes uno)*  
 - **Portafolio:** *(puedes poner tu sitio si lo tienes)*
 
