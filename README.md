@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Leonardo David Alvarado!  
+# 👋 ¡Hola, soy Leonardo Alvarado!  
 
 ### 💻 Desarrollador Web & Software | Autodidacta  
 Apasionado por la tecnología, el desarrollo de soluciones digitales y el aprendizaje constante.  
